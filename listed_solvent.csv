@@ -1,0 +1,41 @@
+No;Solvent;Keyword
+1;Water ;water
+2;Trifluoroethanol;2,2,2-trifluoroethanol
+3;Formic Acid  ;formic acid
+4;Formamide ;formamide
+5;Ethylene Glycol;1,2-ethanediol
+6;Methanol ;methanol
+7;Acetic Acid ;aceticacid
+8;N-Methylformamide;methylformamide
+9;Ethanol;ethanol
+10;1-Propanol ;propanol
+11;BenzylAlcohol;benzylalcohol
+12;1-Butanol;butanol
+13;1-Pentanol;pentanol
+14;NitroMethane;nitromethane
+15;Acetonitrile;acetonitrile
+16;Dimethyl Sulfoxide ;dmso
+17;N,N-Dimethylformamide;dmf
+18;N,N-Dimethylacetamide;dimethylacetamide
+19;Acetone ;acetone
+20;BenzoNitrile;benzonitrile
+21;Nitrobenzene ;nitrobenzene
+22;1,2-Dichloroethane;1,2-dichloroethane
+23;Pyridine;pyridine
+24;Tetrahydrofuran;tetrahydrofuran
+25;2-Propanol;2-propanol
+26;Dichloromethane;dichloromethane
+27;c-Hexanone;cyclohexanone
+28;o-DiChloroBenzene;odichlorobenzene
+29;1,1,1-TriChloroEthane;1,1,1-trichloroethane
+30;Aniline;aniline
+31;2-Heptanone;2-heptanone
+32;n-Methylaniline;n-methylaniline
+33;1,4-Dioxane;dioxane
+34;CCl4;ccl4
+35;Toluene;toluene
+36;Triethylamine;triethylamine
+37;PropanoicAcid;propanoic acid
+38;Diethylamine;diethylamine
+39;Anisole;anisole
+40;Chloroform;chloroform
